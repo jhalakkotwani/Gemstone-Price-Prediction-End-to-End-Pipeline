@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/dbce305edaf24714b6be41d4a63a07cf/artifacts
+end_time: 1719372982167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbce305edaf24714b6be41d4a63a07cf
+run_name: suave-croc-325
+run_uuid: dbce305edaf24714b6be41d4a63a07cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719372971672
+status: 3
+tags: []
+user_id: jhala
